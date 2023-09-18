@@ -8,3 +8,5 @@ for number in range(0,30):
         print('fizz')
     if number % 5 == 0:
         print('buzz')
+    else:
+        print(number)
